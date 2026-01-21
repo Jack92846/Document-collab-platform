@@ -89,11 +89,11 @@ python app.py
 Open your browser and visit: http://localhost:5000
 ```
 
-📄 License: This project adopts the MIT License. For details, please refer to the LICENSE file.
+### 📄 License: This project adopts the MIT License. For details, please refer to the LICENSE file.
 
-🙏 Acknowledgements: 
+### 🙏 Acknowledgements: 
 We would like to express our gratitude to the following open-source projects:
-Flask - A concise web framework
-SQLAlchemy - a powerful ORM tool
-Pillow - Image Processing Library
-All contributors and users
+#### Flask - A concise web framework
+#### SQLAlchemy - a powerful ORM tool
+#### Pillow - Image Processing Library
+#### All contributors and users
